@@ -131,3 +131,6 @@ dmypy.json
 .pyre/
 
 .vscode
+
+# REST client api requests
+API_client.http
